@@ -12,9 +12,9 @@ do.cleanup=1
 do.cleanuponabort=0
 device.name1=jason
 device.name2=aosp_jason
-device.name3=lineage_jason
-device.name4=
-device.name5=
+device.name3=whyred
+device.name4=wayne
+device.name5=jasmine_sprout
 supported.versions=
 supported.patchlevels=
 '; } # end properties
